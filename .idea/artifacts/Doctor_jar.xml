@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Doctor:jar">
+    <output-path>D:/Users/10833/Documents/Spigot 1.15.2 Server/plugins</output-path>
+    <root id="archive" name="Doctor.jar">
+      <element id="module-output" name="Doctor" />
+    </root>
+  </artifact>
+</component>

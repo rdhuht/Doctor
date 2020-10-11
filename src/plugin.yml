@@ -1,0 +1,7 @@
+main: me.rdhuht.Doctor.Main
+name: Doctor
+version: 1.0
+author: rdhuht
+
+commands:
+  Doctor:
